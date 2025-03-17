@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "675643804203",
+    "project_id": "examenfirebase-85c16",
+    "storage_bucket": "examenfirebase-85c16.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:675643804203:android:c1b360dbac637135b7386e",
+        "android_client_info": {
+          "package_name": "com.faixeda.examenuf2rogerfaixeda"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7rq8ldo6kLLaFL2a2Qtm7Dl1G2qNfxBk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
